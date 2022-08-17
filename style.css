@@ -534,7 +534,7 @@ button {
     box-shadow: none;
 }
 #bloc-6 .col-sm-12 {
-    backdrop-filter: brightness(0.5);
+    /*backdrop-filter: brightness(0.5);*/
     width: 80%;
     margin: auto;
     padding: 10px 15px;
@@ -888,13 +888,14 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("img/agence-la-panthere.webp");
+    filter: contrast(1.5);
 }
 
 /*.bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.webp");
 }*/
 #bloc-5-cta h2.mg-md.text-center.tc-white {
-    backdrop-filter: brightness(0.7);
+    /*backdrop-filter: brightness(0.7);*/
     padding: 2rem;
     width: 80%;
     margin: auto;
