@@ -551,7 +551,6 @@ button {
     background-color: transparent !important;
     transition: all 0.3s ease-in-out;
 }
-.scrollToTop:focus,
 .scrollToTop:hover {
     background-color: rgba(0, 0, 0, 0.3) !important;
 }
