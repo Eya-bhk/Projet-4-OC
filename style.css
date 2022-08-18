@@ -1056,7 +1056,7 @@ h4 {
     box-shadow: none;
 }
 .navbar-brand img {
-    width: 11rem;
+    width: 20rem;
     height: auto;
 }
 .nav-invert .navbar-header {
@@ -1143,5 +1143,9 @@ form {
     }
     .col-sm-6 {
         padding-bottom: 2rem;
+    }
+    .navbar-brand img {
+        width: 15rem;
+        height: auto;
     }
 }
